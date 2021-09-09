@@ -55,7 +55,7 @@ class MyArray
             length--;
         }
 
-        static void Main(string[] args)
+        static void Run(string[] args)
         {
             MyArray myArray = new MyArray();
 

@@ -1,7 +1,7 @@
 using System;
 
-class MainClass {
-    static void Main() {
+class Merge_Sorted_Arrays {
+    static void Run() {
         int[] arr1 = {1, 3, 5, 7}; 
         int n1 = arr1.Length; 
       

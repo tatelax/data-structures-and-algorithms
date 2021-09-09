@@ -78,7 +78,7 @@ class MyNode
             return result;
         }
 
-        static void Main(string[] args)
+        static void Run(string[] args)
         {
             HashTable h = new HashTable(2);
             h.set("grapes", 1000);

@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-class Program
+class FirstRecurringCharacter
 {
-    static void Main(string[] args)
+    static void Run(string[] args)
     {
         int[] arr = { 1, 5, 8, 5, 1, 8, 8, 7, 4, 4, 10 };
         Console.Write(FindFirstRecurringChar(arr));

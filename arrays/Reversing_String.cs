@@ -1,7 +1,7 @@
 using System;
 
-class MainClass {
-    static void Main() {
+class ReversingString {
+    public static void Run() {
         string str = "I am Anirban";
         reverseString(str);
     }
